@@ -1,0 +1,22 @@
+Keyboard shortcut
+a. ctrl + f -> untuk mencari teks
+b. ctrl + x -> untuk cut baris
+c. ctrl + c -> untuk copy baris
+d. ctrl + s -> untuk menyimpan file
+e. ctrl + shift + n -> untuk membuat jendela baru
+f. ctrl + shift + w -> untuk menutup jendela
+
+Perbedaan ticketing tools
+a. Trello
+*Tampilannya menarik dan terdapat label yang dapat digunakan untuk membedakan status dari tugas-tugas yang ada
+*Tugas-tugas dibagi ke dalam tiga kategori yaitu to do (akan dilakukan), doing (sedang dilakukan), dan done (telah dilakukan)
+
+b. Jira
+*Terdapat keterangan waktu kapan tugas-tugas mulai dibuat
+*Tugas-tugas dapat ditentukan tingkat kepentingannya (mana yang lebih diprioritaskan)
+
+c. YouTrack
+*Terdapat fitur tags dan saved searchs
+*Tampilannya kurang menarik
+
+Dari ketiga tools tersebut, saya lebih memilih trello karena lebih mudah untuk digunakan.
